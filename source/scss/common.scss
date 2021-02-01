@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+.gray {
+    background-color: #e4e2e2;
+}
+
+.darkgray {
+    background-color: #5f5757;
+}
+
+.container {
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 10px 20px;
+}
+
+ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
